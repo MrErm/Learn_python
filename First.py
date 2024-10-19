@@ -8,3 +8,4 @@ for n in range(3):
     print("---")
 print("Hello")
 print("Привет")
+print("пока")
