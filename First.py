@@ -7,3 +7,4 @@ for n in range(3):
     print(n)
     print("---")
 print("Hello")
+print("Привет")
