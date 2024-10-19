@@ -1,4 +1,9 @@
-a=10
-print(a)
-b=6
-print(a+b)
+# a=10
+# print(a)
+# b=6
+# print(a+b)
+
+for n in range(3):
+    print(n)
+    print("---")
+print("Hello")
