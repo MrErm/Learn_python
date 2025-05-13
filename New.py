@@ -23,3 +23,6 @@ print(str[0:3])
 
 print(str + " homie!")
 print(str * 3)
+
+
+print("Hello Vitaliy")
